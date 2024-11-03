@@ -1,4 +1,4 @@
-# Custom Bluetooth Controller with ESP32
+# Game Controller with ESP32
 
 This project creates a wireless input controller using an ESP32 microcontroller, simulating mouse and keyboard inputs via Bluetooth (BLE). It combines motion control, joystick navigation, and proximity-based actions, making it ideal for gaming, assistive technologies, or remote control applications.
 
